@@ -3,6 +3,8 @@ This repository contains a fully responsive clone of the Razorpay website, creat
 
 Razorpay Clone - Responsive Website | By Zaheer Patel
 
+Link of Razorpay Clone - https://razorpay-clone-by-zaheer.netlify.app/
+
 This repository contains a fully responsive clone of the Razorpay website, created using HTML, CSS, and Tailwind CSS. The project is designed to showcase a strong foundation in front-end development skills, particularly in building responsive layouts and utilizing the utility-first approach provided by Tailwind CSS.
 
  Features
